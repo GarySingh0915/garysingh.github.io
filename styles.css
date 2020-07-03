@@ -34,12 +34,10 @@
 	font-size:22px;
 	text-decoration:underline;
 	background-color:#1F75FE;
-}
-.navigationBar a:hover{
 	padding-left:4%;
 	margin-left:-8.5%;
-	
 }
+
 .blue-btn a{
   color: white;
   text-decoration:none;
