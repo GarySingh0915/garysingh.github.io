@@ -11,7 +11,7 @@
 
 .dropdown {
   position: relative;
-
+display:inline-block;
 }
 
 .dropdown-content {
