@@ -95,8 +95,7 @@ margin:0;
   background-color: rgba(51, 172, 255);
   border-radius: 20px;
   position: relative;
-  top: 15%;
-  right:5%;
+  margin:auto;
 }
 
 .blue-btn:hover{
